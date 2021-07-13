@@ -1,0 +1,6 @@
+D:\Projects\SOSCSRPG\Engine\bin\Release\Engine.dll
+D:\Projects\SOSCSRPG\Engine\bin\Release\Engine.pdb
+D:\Projects\SOSCSRPG\Engine\obj\Release\Engine.csprojAssemblyReference.cache
+D:\Projects\SOSCSRPG\Engine\obj\Release\Engine.g.resources
+D:\Projects\SOSCSRPG\Engine\obj\Release\Engine.dll
+D:\Projects\SOSCSRPG\Engine\obj\Release\Engine.pdb

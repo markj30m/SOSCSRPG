@@ -1,0 +1,13 @@
+D:\Projects\SOSCSRPG\Engine\bin\Debug\Engine.dll
+D:\Projects\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+D:\Projects\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+D:\Projects\SOSCSRPG\Engine\obj\Debug\Engine.dll
+D:\Projects\SOSCSRPG\Engine\obj\Debug\Engine.pdb
+D:\Projects\SOSCSRPG\Engine\obj\Debug\Engine.g.resources
+D:\Uni\Projects\SOSCSRPG\Engine\bin\Debug\Engine.dll
+D:\Uni\Projects\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+D:\Uni\Projects\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+D:\Uni\Projects\SOSCSRPG\Engine\obj\Debug\Engine.g.resources
+D:\Uni\Projects\SOSCSRPG\Engine\obj\Debug\Engine.dll
+D:\Uni\Projects\SOSCSRPG\Engine\obj\Debug\Engine.pdb
+D:\Uni\Projects\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
